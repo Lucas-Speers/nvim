@@ -11,5 +11,6 @@ return {
     end
     
     lspconfig.zls.setup{}
+    lspconfig.rust_analyzer.setup{}
   end
 }

@@ -1,3 +1,3 @@
-require("lucas.lazy")
 require("lucas.remap")
 require("lucas.settings")
+require("lucas.lazy")
